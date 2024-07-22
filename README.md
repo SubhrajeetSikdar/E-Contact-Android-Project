@@ -19,7 +19,7 @@ To get started with E-Contact, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/e-contact-android.git
+git clone https://github.com/SubhrajeetSikdar/e-contact-android.git
 Open the project in Android Studio:
 
 Launch Android Studio.
