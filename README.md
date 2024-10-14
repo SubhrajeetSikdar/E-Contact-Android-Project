@@ -1,5 +1,5 @@
 # E-Contact-Android-Project
-
+The application 
 # Overview
 E-Contact is an Android application developed using Java, aimed at simplifying contact management and communication. This app allows users to easily store, manage, and retrieve contact information, enhancing the user's productivity and connectivity.
 
